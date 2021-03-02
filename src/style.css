@@ -1,4 +1,4 @@
-.container{
+.container{ 
     display: flex;
     width: 100%;
     align-items: center;
@@ -6,12 +6,12 @@
     flex-direction: column;
 }
 
-.timer{
+.img{
     width: 350px;
     height: 350px;
     padding-top: 100px;
 }
-.botao{
+.timer{
     font-size: 130px;
     margin-top: -250px;
 }
