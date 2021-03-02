@@ -47,7 +47,7 @@ class App extends Component{
   render(){
     return(
       <div className="container">
-        <img src={require('./assets/cronometro.png')} />
+        <img src={require('./assets/cronometro.png')} className="img"/>
         <a className="timer">{this.state.numero.toFixed(1)}0.0</a>
         <div className="areaBtn">
           <a className="botao" onClick={this.vai}> {this.state.botao}</a>
