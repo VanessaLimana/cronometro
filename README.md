@@ -1,3 +1,10 @@
+![cronometro_img](https://user-images.githubusercontent.com/41017772/109841801-2ff42e80-7c28-11eb-9c30-e8df5e5e29f0.PNG)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
